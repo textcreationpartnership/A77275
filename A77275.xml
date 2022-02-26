@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to the reverend parochial clergy, being an epistolary supplement to a former essay for promoting lending libraries.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77275</idno>
+            <idno type="STC">Wing B4296dA</idno>
+            <idno type="STC">ESTC R233980</idno>
+            <idno type="EEBO-CITATION">45789174</idno>
+            <idno type="OCLC">ocm 45789174</idno>
+            <idno type="VID">172488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172488)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2634:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to the reverend parochial clergy, being an epistolary supplement to a former essay for promoting lending libraries.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Hawes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Tho. Bray.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Library finance --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:172488:1" rendition="simple:additions"/>
+            <head>PROPOSALS <hi>To the Reverend Parochial Clergy, being an Epiſtolary Supplement to a former Eſſay for promoting</hi> Lending Libraries.</head>
+            <opener>
+               <salute>Reverend Sirs,</salute>
+            </opener>
+            <p>THE Perſons I chiefly addreſs to in this Supplement, and to whoſe Hands I tranſmit it, are you who have ſubſcrib'd to my Catechetical Lectures. And the Experience I have had of your Candour and Good Affection to my Attempts, encourages me to communicate to you particularly, the following Propoſal, in order to lay the Foundation of Libraries, for the Uſe of ſuch of the Parochial Clergy amongſt you, whoſe Preferments will not enable them to buy for themſelves. I know to whom I write, that it is to Men of Letters, and Lovers of Books; and therefore need not enlarge in ſhewing, firſt, that as the Soul of Man is infinitely more valuable than the Body, ſo that Charity which goes towards the cultivating the Minds and Manners of Men with Divine Knowledge, and Chriſtian Graces, whereby they <hi>may be made meet to be Partakers of the Inheritance of the Saints in Light,</hi> muſt needs be of a far more exalted Nature, than that which terminates only upon the Welfare of this mortal Life.</p>
+            <p>Nor, Secondly, need I more than ſuggeſt, that Libraries diſpers'd throughout the Nation, are the moſt wanted part of Charity in this Church, as the Caſe now ſtands with us of the Inferiour Clergy. For why? I am very ſure, there are not ſo few as Two thouſand Pariſhes in this Kingdom endow'd with not above Twenty Pound <hi>per Annum,</hi> for the Maintenance of the Miniſter, out of which, as it is impoſſible he ſhould furniſh himſelf with neceſſary Books; ſo it is equally inconceivable, how without Books he can anſwer the Ends of his Function, and, and not fall into the Contempt, to which Ignorance muſt neceſſarily expoſe us; eſpecially now that (ſo many of the <hi>Laity</hi> pretend to ſome Skill in Letters.)</p>
+            <p>And now being perſwaded, that if the Foundation of a Library in every Deanary, or Market-Town, were once begun but in 10 <hi>l.</hi> the Stock wou'd by one means, or other, ſoon increaſe to a compleat Sett of all neceſſary Books; Out of a well-meant Zeal for the Service of God's Church, and the Honour of my Function, I have adventured upon the following Project for the carrying of it on; and that a Deſign I put my Heart ſo much upon, may better take, I ſhall therefore propoſe a Means, which I humbly conceive may be of ſuch a Nature, as will be a conſiderable Good in it ſelf, abſtracting from the End it ſerves; nay, and will be as immediately ſerviceable to the Good of Souls, as the end it ſelf will be, which is to be accompliſh'd by it; And is ſuch withal, as cannot be properly ſaid to be a Charge to any. In order to make which appear;</p>
+            <p>Firſt, I deſire the Preface to the <hi>Diſcourſe upon the Doctrine of the Baptiſmal Covenant</hi> may be read, and conſider'd in the full Purport of it, by the Reverend, both Clergy and Schoolmaſters, into whoſe Hands that Book ſhall come.</p>
+            <p>Secondly, I humbly propoſe that they would pleaſe to recommend that Book to the Youth both of their Pariſhes, and Schools, to the Purpoſes ſpecify'd in the ſaid Preface.</p>
+            <p>Thirdly, That eſpecially every Miniſter wou'd recommend it to ſuch of the Gentry of their Acquain<g ref="char:EOLhyphen"/>tance, as are piouſly diſpoſed, to purchaſe Numbers of the foremention'd Books to beſtow in ſuch poor Families as are their Tenants and Neighbours; but not well able of themſelves to buy a Book for the Uſe of their Children and Servants, and the promoting of Family-Religion.</p>
+            <p>Fourthly, The Property of that <hi>Diſcourſe upon the Doctrine of our Baptiſmal Covenant,</hi> being ſo far kept unalienated to any Bookſeller, that it may be in my Power to diſpoſe of it as ſhall be moſt for any Publick Service; I do propoſe by a Sale of 400 Books in every Deanary, at 1 <hi>s.</hi> 6 <hi>d. per</hi> Book, to clear 10 <hi>l.</hi> with which to purchaſe a Box of the choiceſt Books wherewith to lay the Foundation of <hi>Lending Libraries</hi> in every Deanary, or Market-Town.</p>
+            <p>Fifthly, That 400 Books may be vended in every Deanary, to the Purpoſes aforeſaid, is not hard to imagine; when it is conſider'd, that there are at leaſtwiſe Twenty Pariſhes in every Deanary, and that Twenty Books may be diſpos'd of into each Pariſh, one with another, the Amount of which will be 400 Books. For tho' in ſome Pariſhes Five Books may not be purchas'd; yet what may be ſuppos'd to go off in the Towns and Schools in each Deanary, will make up the Number propos'd.</p>
+            <p>Sixthly, Since ſome of the remote Parts of this Kingdom are neither furniſh'd with Schools, nor in moſt Pariſhes with Perſons of Ability to purchaſe theſe Expoſitions for their own Inſtruction, and to advance ſuch a Fund of Learning for their Clergy, as will enable them to inſtruct the People commit<g ref="char:EOLhyphen"/>ted to their Charge: It is propos'd, That what can be gain'd by the Subſcriptions of the great Schools of <hi>England; viz. Weſtminſter, Eaton, Wincheſter, Merchant-Taylors,</hi> St. <hi>Pauls,</hi> and <hi>Charter-Houſe</hi> Schools; as alſo from other Eminent Schools, and from Subſcribers in <hi>London,</hi> ſhould be wholly laid out towards purchaſing <hi>Lending Libraries</hi> for thoſe Places in <hi>England,</hi> which are not ſufficient of themſelves to make ſuch a Proviſion. And it is but reaſonable that this part of the Nation which is ſo much under the bleſſed Influences of Religion and Learning it ſelf, and wants no Supplies to promote both, ſhould permit what may be advanced in this way, to go towards the promoting the like in other Parts not in a Condition to do it. And indeed it is a matter of ſad Conſideration, to ſee how barbarous and ignorant ſome places in this Kingdom ſtill remain, notwithſtanding that the Goſpel ſhines in other parts of the Nation with a <hi>Meridian Brightneſs.</hi> The reaſon is, the poor Provi<g ref="char:EOLhyphen"/>ſion made for its Encouragement in thoſe places, whereas in all reaſon the greateſt Encouragement ought to be given there, where Nature is moſt unkind and uninviting, to balance the Inconveniencies thereof. And I am verily perſuaded, that if Books were more eaſie to be met with in thoſe Parts, as ungrateful as is the Climate, Men of Worth would follow them, it being natural for Perſons who are Lovers of Knowledge, to value all Places alike, where Religion and Learning do flouriſh.</p>
+            <p>Seventhly, And now I hope by this time it may appear that the means herein propos'd, for the purchaſing of theſe <hi>Lending Libraries,</hi> is of ſuch a Nature as to be a moſt great and conſiderable Good in it ſelf, ab<g ref="char:EOLhyphen"/>ſtracting
+<pb facs="tcp:172488:2"/> from the end it ſerves, and to be as immediately conducive to the Good of Souls, as the end will be which is to be accompliſhed by it.</p>
+            <p>Nor laſtly, Can that which is here Propos'd, be properly ſaid to be a Charge to any, becauſe every Pur<g ref="char:EOLhyphen"/>chaſer has here a Book at an under Price for his Money. There are not many of that Generoſity as meerly to <hi>Give,</hi> though to advance the moſt Publick and Uſeful Deſign; and what they beſtow does generally come with ſuch difficulty from them, as not to be obtain'd without ſo much Application, as will require a Perſon ſhould have little elſe to do than to ſolicite that one thing amongſt them. But the way here Pro<g ref="char:EOLhyphen"/>poſed, ſeems to me to be both eaſie, and grateful; eaſie, becauſe few grudge their <hi>Penny</hi> if they have but a <hi>Penniworth;</hi> and grateful, becauſe I verily believe there is ſcarce that Parent ſo bad himſelf, who will not be very well pleaſed his Child ſhould be Principled in Religion as well as Learning, and who will not thank the School-Maſter that puts him upon buying a <hi>Catechetical Expoſition,</hi> in which to Inſtruct him; and the Parent or Maſter of a Family, will, in all likelihood do the ſame, and value the Clergy the more for their Care, in adviſing them to ſuch <hi>Books</hi> as ſhall be for the Inſtruction of thoſe who belong to them, eſpecially if Miniſters will be at the Pains ſometimes to examine the Youth upon what they ſhall read. And methinks where Publick Ends of the greateſt Conſequence can be provided for, to no Man's Private Charge or Diſadvantage, all ſhould be ſatisfied.</p>
+            <p>And now I am to intreat the Candour of my Reverend Brethren, that however I may be miſtaken in the Practicableneſs of this Deſign, (which yet I hope I am not, ſeveral of the Libraries propos'd having been already advanc'd upon this Foot) they would believe I ſincerely intend the Good of Souls, and the Honour of my Function, in all that is here propos'd. That I am ſo preſſing, as for <hi>Parochial Libraries</hi> in the Planta<g ref="char:EOLhyphen"/>tions, ſo for <hi>Lending Libraries</hi> in <hi>England,</hi> is, becauſe, as in the former I know no good a Clergy, that are not able to furniſh themſelves with Books in going over, can do in a Country where none are to be bought when they are there; So in the latter, I am certain that Good cannot be done, which is expected from every Miniſter here in <hi>England,</hi> when the Third Part of our Parochial Clergy are not enabled by their Pre<g ref="char:EOLhyphen"/>ferments, to buy the fourth part of thoſe Books, which are neceſſary to enable them fully to inſtruct the Peo<g ref="char:EOLhyphen"/>ple in the meer Neceſſaries to Salvation. Standing Libraries will ſignifie little in the Country, where Per<g ref="char:EOLhyphen"/>ſons muſt ride ſome Miles to look into a Book; ſuch Journeys being too expenſive of Time and Money: But <hi>Lending Libraries,</hi> which come home to them without Charge, may tolerably well ſupply the Vacancies in their own Studies, till ſuch time as theſe <hi>Lending</hi> may be improv'd into <hi>Parochial Libraries.</hi>
+            </p>
+            <p>But when I propoſe to lay the Foundation of theſe Libraries, by the Sale of my own Book, this will need ſome Apology.</p>
+            <p>That I propoſe my own, it is not ſo, but that I do with all Humility ſubmit to the Judgment of my Superiors and Equals too, to accept it, or refuſe it, and to ſubſtitute ſome other in its room, the Sale whereof may provide for the End propos'd. But that it ought to be ſome Book upon the Subject of our Baptiſmal Covenant, as fitteſt to be the Subject of a Chriſtian Inſtitution for Youth, and indeed a Family-Book, with Submiſſion to better Judgments, I have theſe Reaſons to offer for it: 1. I take the <hi>Covenant of Grace,</hi> or our <hi>Baptiſmal Covenant,</hi> to compriſe the whole of Chriſtianity, even all that, than which, no Man, as a meer Chriſtian, is neceſſitated to know more, and than which the meaneſt ought not to know leſs. No Man in any Civil Contract can perform his Bonds, without knowing the Conditions of the Obligations; no more can a Chriſtian be ſuppos'd to perform his Covenant with God, without knowing the Nature, Terms, and Conditions of it. 2. It is abſolutely neceſſary, that all Youth ſhould comprehend the General Nature, Terms, and Conditions of their Baptiſmal Covenant, before they go to be Confirmed. 3. And all Perſons whatſoever, before they go to the Holy Sacrament, becauſe in both theſe Ordinances they ratifie their Vow with God. 4. And if in our Viſitation of the Sick, the beſt Advice we can give to Perſons in that Con<g ref="char:EOLhyphen"/>dition, in order to prepare them for Death, is to examine themſelves concerning their Failures, in all, and every the Terms and Conditions required on their part in their Baptiſmal Covenant: 5. And if at the Day of Judgment the Proceſs will turn upon this, and they will be juſtify'd or condemn'd, according as they have perform'd, or not perform'd their Covenant with God, I know no Scheme of Divinity ſo neceſſary for every private Chriſtian to be Maſter of, as this. And when moreover ſome ſuitable Devotions for Families are added at the end of ſuch a Book, I know nothing may bid more fairly for a proper Family-Book, than one upon this Subject.</p>
+            <p>It may ſeem indeed, as is objected in the Preface to the Book here propos'd, That the Matter treated of, in a Diſcourſe of this Nature, may be above the Capacities of Youth. And I would fain know what <hi>Gram<g ref="char:EOLhyphen"/>mar,</hi> or <hi>Inſtitutions</hi> in other Sciences, are not ſo at firſt: But as often conning of Rules and Terms of Art by Children, lets gradually into their Minds that Knowledge, which will be uſeful to them all their Lives; ſo here with a hundredth part leſs reading o'er a Book, they will become perfect Maſters of the whole Scope of theſe Chriſtian Elements. And as for grown Perſons, as nothing is more familiar to them than the Notions about Covenants and Contracts, and of Signing, Sealing, and of the Obligations reſulting therefrom; ſo I am perſwaded their Capacities will ſooneſt reach that Scheme of Chriſtianity, which is deliver'd in thoſe Forms, and under thoſe Terms. And therefore, in compliance with the General Apprehenſions of Men, it is to be ſuppos'd, that the Holy Spirit does all along repreſent the Tranſactions between God and Man in the way of <hi>Covenant.</hi>
+            </p>
+            <p>It is not indeed to be expected, that a Diſcourſe of this Nature ſhould deſcend to all the particular and ſubdivided Terms of the Covenant, whether Articles neceſſary to be believed, or Duties to be practiſed. No <hi>Elementary Inſtitution</hi> of any kind does that; but in a Diſcourſe upon the General Doctrine of the Co<g ref="char:EOLhyphen"/>venant betwixt God and Man, enter'd into in our Baptiſm, are laid down thoſe great Strokes of Chriſtiani<g ref="char:EOLhyphen"/>ty, which are to be fill'd up afterwards by more particular Explications. And here the whole Scheme of ſaving Truths is to be laid down in an orderly Method, ſo that every Hearer of the Word of God may be able to refer what he ſhall at any time hear or read in a deſultory manner, to its proper Head; for want of which Skill, Chriſtianity (though the moſt rational Syſtem of Verities in the World) ſeems to many to be a meer huddle of incoherent Principles and Practices, whoſe end they know not, nor how wiſely every thing in it is adapted to carry on that noble End.</p>
+            <p>In ſhort, as meer Zeal for Publick Service has excited me to leave no Stone unturn'd, to procure <hi>Parochial Libraries</hi> for the Plantations, (and I thank God with ſome conſiderable Succeſs:) So if, in laying the Foundation of the like Deſign in any Parts of this Kingdom, I can be ſerviceable to my Mother the Church, and my Reverend Brethren at home, whilſt the Buſineſs I am proſecuting for thoſe Parts detains me here, I ſhall think my ſelf ſufficiently happy in ſuch an Undertaking; being to both</p>
+            <closer>
+               <signed>
+                  <hi>A moſt Devoted, and Humble Servant,</hi> THO. BRAY.</signed>
+            </closer>
+         </div>
+         <div type="model_book_catalogue">
+            <pb facs="tcp:172488:3"/>
+            <head>A Double CATALOCUE of BOOKS, to the Value of 10 <hi>l.</hi> pro<g ref="char:EOLhyphen"/>pos'd for the laying the Foundation of a <hi>Lending Library.</hi>
+            </head>
+            <list>
+               <head>The Firſt, A <hi>Catalogue</hi> of ſome of the <hi>Principal Fathers,</hi> according to the lateſt and beſt Editions of the ſame.</head>
+               <item>
+                  <hi>SAnctorum Patrum Clementis, Barnabae, Ignatii, Polycarpi, &amp;c. Epi<g ref="char:EOLhyphen"/>ſtolae juxta Ed. Cottelerii Antwerpiae</hi> 1698. 2 Vol. Fol.</item>
+               <item>
+                  <hi>Juſtini Martytris Opera Grae. Lat juxta Ed. Pariſienſem, An.</hi> 1636. <hi>Col.</hi> 1686. Fol. —</item>
+               <item>
+                  <hi>Clement is Alexandrini Opera Grae. Lat. juxta Ed. Pariſienſem</hi> 1641. <hi>Col.</hi> 1688. Fol. —</item>
+               <item>
+                  <hi>Euſebii, Socratis, Sozomeni, Theodoreti, Evagrii Hiſt. Eccleſ. Grae. Lat. juxta Ed. Valeſii Par. Amſtel. aut Moguntiae,</hi> 1679. 3 Vol. Fol.</item>
+               <item>
+                  <hi>—Praeparatio Evangelica, juxta Ed. Par.</hi> 2 Vol. Fol. Col. 1688.</item>
+               <item>
+                  <hi>—Demonſtratio Evangelica, juxta Ed. Par.</hi> 2 Vol. Fol. Col. 1688.</item>
+            </list>
+            <list>
+               <head>The Second, A <hi>Catalogue</hi> of ſome <hi>Modern Authors</hi> upon the Chief <hi>Heads</hi> of <hi>Divinity.</hi>
+               </head>
+               <item>
+                  <list>
+                     <head>Bodies of Divinity.</head>
+                     <item>
+                        <hi>THomae Aquinatis Summoe,</hi> Fol. —</item>
+                     <item>
+                        <hi>Turretini Institutionis Theologiae Chriſtianae Compendium,</hi> 4o. —</item>
+                     <item>
+                        <hi>Philippi à Limborch Theologia Chriſtiana,</hi> Fol. —</item>
+                     <item>Dr. <hi>Scot</hi>'s Chriſtian Life, 3 <hi>Vol.</hi> 8o. —</item>
+                  </list>
+                  <list>
+                     <head>Apologies for the Truth of Chriſtianity, and the Authority of the Holy Scriptures.</head>
+                     <item>
+                        <hi>GRotius de Veritate Chriſtianae Religionis,</hi> 12o. —</item>
+                     <item>
+                        <hi>Parker</hi>'s Demonſtration of the Law of Nature, and of the Truth of the Chriſtian Religion, 4o. —</item>
+                  </list>
+                  <list>
+                     <head>On the General Doctrine of the Covenant of Grace.</head>
+                     <item>MR. <hi>Allen</hi>'s Diſcourſe on the Two Covenants. —</item>
+                     <item>Firſt Volume of Catechetical Lectures; with the Six Additio<g ref="char:EOLhyphen"/>nal Lectures, <hi>Fol.</hi> —</item>
+                  </list>
+                  <list>
+                     <head>Upon the CREED.</head>
+                     <item>BIſhop <hi>Pearſon</hi> on the Creed, <hi>Fol.</hi> —</item>
+                     <item>
+                        <hi>Kettlewell's</hi> Chriſtian Believer, 8o. —</item>
+                  </list>
+                  <list>
+                     <head>On the Moral Law and Chriſtian Duties.</head>
+                     <item>BIſhop <hi>Taylor</hi>'s <hi>Ductor Dubitantium,</hi> Fol. —</item>
+                     <item>Biſhop <hi>Sanderſon de Obligatione Conſcientiae &amp; de Juramento.</hi> —</item>
+                     <item>Biſhop <hi>Hopkins</hi> on the Ten Commandments, 4o. —</item>
+                     <item>
+                        <hi>Kettlewel's Meaſures of Chriſtian Obedience,</hi> 8o. —</item>
+                  </list>
+                  <list>
+                     <head>Upon the Doctrine of Repentance.</head>
+                     <item>DR. <hi>Goodman</hi>'s Penitent pardon'd, 8o. —</item>
+                     <item>Dr. <hi>Hooper's</hi> Diſcourſe of the <hi>Lent</hi>-Faſt, 8o. —</item>
+                  </list>
+                  <pb facs="tcp:172488:4"/>
+                  <list>
+                     <head>Of Divine Aſſiſtance, Prayer, and the Sacraments, thoſe Means of performing the foregoing Articles.</head>
+                     <item>MR. <hi>Allen</hi> of Divine Aſſiſtance. —</item>
+                     <item>Biſhop <hi>Hopkin</hi>'s Expoſition of the Lord's Prayer, 4o. —</item>
+                     <item>Mr. <hi>Kettlewel's</hi> Help and Exhortation to Worthy Communion, 8o.—</item>
+                  </list>
+                  <list>
+                     <head>Sermons.</head>
+                     <item>BIſhop <hi>Sanderſon</hi>'s Folio. —</item>
+                     <item>Archbiſhop <hi>Tillotſon</hi>'s Sermons, 10 Volumes, 8o. —</item>
+                  </list>
+                  <list>
+                     <head>Miniſterial Directories; with the Lives of Eminent Divines.</head>
+                     <item>BIſhop <hi>Burnet</hi>'s Paſtoral Care, 8o.—</item>
+                     <item>
+                        <hi>Bibliotheca Parochialis,</hi> 4o. —</item>
+                     <item>Life of Biſhop <hi>Bedel,</hi> 8o. —</item>
+                  </list>
+                  <list>
+                     <head>Modern Controverſie.</head>
+                     <item>MR. <hi>Allen</hi>'s <hi>Works,</hi> 4 <hi>Vol.</hi> 12o. —</item>
+                     <item>Bp. <hi>King</hi>'s Inventions of Men in the Worſhip of God 12o. —</item>
+                     <item>Snake in the Graſs, 8o. —</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>Note</hi> 1. That either of the foregoing Setts of Books, either that of the Fathers, or the later conſiſting of Modern Authors, ſhall be ſent according as the Clergy in the reſpective Deanaries ſhall agree amongſt themſelves. Or they may pitch upon any other Book, or Books, of equal Value, inſtead of either of thoſe here propos'd.</p>
+            <p n="2">2. That each <hi>Library,</hi> together with the SHORT DISCOURSES ſhall be ſent down in ſuch a Book-Preſs divided by Shelves, as may ſerve for a Repoſitory to keep them in where-ever they are lodg'd; and the Books ſhall be mark'd on the Covers to what place they belong, at the Charge alſo of the Undertaker.</p>
+            <p n="3">3. A certain pious Perſon out of Zeal, as well to lay the Foundation of Chriſtian Knowledge in the Minds of Youth, by an Inſtruction in the Doctrine of our Baptiſmal Covenant (which, beſides that it is the firſt, and moſt neceſſary part of Chriſtian Inſtruction upon the foremention'd Accounts, is at this time more peculiarly requiſite, as it is a direct Antidote againſt the two prevailing Hereſies of theſe Days, <hi>Socinianiſm</hi> and <hi>Antinomianiſm</hi>) as to promote the Deſign of having <hi>Lending Libraries</hi> in every Deanary for the Uſe of the Clergy, does promiſe to contribute five Pounds towards the Purchaſe of 30 Setts of the Short Diſcourſes, which will reduce the Price to 1 <hi>s.</hi> 3 <hi>d. per</hi> Book.</p>
+            <p n="4">4. If in any large, or Populous Town, the Number of the SHORT DISCOURSES propos'd, ſhall ariſe to 400. the Mi<g ref="char:EOLhyphen"/>niſter of that Place may have the Benefit of the Library, purchas'd out of the Profits thereof, ſolely to himſelf, and his Succeſſors, Libraries being more peculiarly uſeful and neceſſary to the Clergy in Towns, where though it be requiſite their Abilities ſhould be greateſt, yet the Proviſion and Maintenance for that purpoſe is generally there the leaſt.</p>
+            <p n="5">5. If any School ſhall ſolely from it ſelf advance the foremention'd Tale of Subſcriptions, the School-Maſter thereof ſhall enjoy for himſelf, and Succeſſors, the like appropriated Advantages of the purchas'd Library.</p>
+            <p n="6">6. So alſo ſhall any large Country-Pariſh; but with this <hi>Proviſo,</hi> with reſpect to both Towns, Schools, and large Pariſhes, that a <hi>Quota</hi> of Subſcriptions go from each towards purchaſing <hi>Lending Libraries</hi> for the Uſe of the reſpective Deanaries, That being the firſt and principal Deſign.</p>
+            <p n="7">7. and <hi>Laſtly,</hi> The Perſon, who will undertake the providing both the <hi>Short Diſcourſes,</hi> and alſo the <hi>Lending Libraries</hi> at the fore<g ref="char:EOLhyphen"/>mentioned Terms, is Mr. <hi>William Hawes,</hi> Book-ſeller at the Sign of the <hi>Roſe</hi> in <hi>Ludgate ſtreet;</hi> of whom any of the Clergy may have the Six <hi>Additional Lectures</hi> to the Firſt Volume; and as many of the Firſt Volume perfect as they pleaſe. And I take this Opportunity alſo to let my Reverend Subſcribers know, that when the Cheapneſs of Paper, and better Leiſure, will permit me to proceed in Printing off my Second Volume, from the ſame Perſon they are to receive the Books in my Abſence out of <hi>England.</hi>
+            </p>
+            <p>And now I ſhall only crave leave to add, with reſpect to my preſent Propoſal, that upon Experience it has been found, that if but half a dozen of the more ſober Youth in a Pariſh, can be once brought to purchaſe, and make uſe of the Book, and to render the Miniſter ſome Account thereof every <hi>Sunday</hi> in the Veſtry, or Chancel, after Divine Service is over, the whole Youth of the ſame Pariſh, (excited thereunto either by Example, or Emulation,) will in a ſhort time give themſelves up to the like Diſcipline of their reſpective Paſtors, to his exceeding great Comfort, and their own no ſmall Advantage: Whereby an Opportunity alſo will be given to each Miniſter, ſo to form the Youth who are the growing Hopes of his Pariſh, that they ſhall all of them devoutly make their <hi>Reſpouſes</hi> in the Common Prayer, and obſerve an exact <hi>Decorum</hi> in their Behaviour throughout the whole Service, for want of which our Liturgy does ſo ſadly ſuffer at this Day.</p>
+            <p>In ſhort, the whole Profit of this Copy of the <hi>Short Diſcourſe,</hi> is intended to promote the Deſign of <hi>Lending Libraries,</hi> if my Bre<g ref="char:EOLhyphen"/>thren of the Clergy ſhall pleaſe to accept it, and ſo encourage it, as ſhall be ſerviceable to that purpoſe; and tho' I am offer'd conſidera<g ref="char:EOLhyphen"/>bly for it, yet, as upon the niceſt Computation, it is not thought that one Shilling will be gain'd by the Sale even of 12000 Books in the Method here propos'd, when all requiſite Charges ſhall be defray'd; yet if, by the beſt management of the Deſign, any thing ſhall be ſav'd, that all, and every Farthing of it ſhall be accounted as a thing <hi>devored,</hi> and laid out to the promoting of the forementioned Deſign, is what I do here enter my Proteſt to, and ſhall be punctually obſerv'd, whilſt under the Management, and Direction of,</p>
+            <closer>
+               <salute>Reverend Sirs,</salute>
+               <signed>Your moſt Devoted and Humble Servant, <hi>THO. BRAY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> William Hawes, <hi>at the</hi> Roſe <hi>in</hi> Ludgate-ſtreet, 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
